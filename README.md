@@ -8,15 +8,11 @@ To view the notebook click
 
 ## Table of Contents
 
-<br>
-
 ##### Scrapping Criminal links from SAPS Database
 
-<br>
 
 ##### Now we scrape all the urls from the SAPS Database and data mine
 
-<br>
 
 ##### Database Report
  - Our Database
