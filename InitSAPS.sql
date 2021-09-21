@@ -8,9 +8,9 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 -- =============================================
--- Author:		<Ashlin Darius Govindasamy - ADGSTUDIOS>
+-- Author:	<Ashlin Darius Govindasamy - ADGSTUDIOS (c) 2021>
 -- Create date: <2021/09/21>
--- Description:	<Used to Create tblSAPS or Reset DataContents Job Ran by Docker midnight each day>
+-- Description:	<Used to Create tblSAPS or Reset DataContents Job Runs by Docker midnight each day in RahnDB>
 -- =============================================
 CREATE PROCEDURE [dbo].[InitSAPS] 
 AS
