@@ -1,7 +1,9 @@
 # SAPS MOST WANTED SCRAPPER DB
 
 To view the notebook click
-https://colab.research.google.com/github/ADGSTUDIOS/ScrappingSAPSMostWanted/blob/main/ScrappingSAPSDatabase.ipynb
+
+<a href="https://colab.research.google.com/github/ADGSTUDIOS/ScrappingSAPSMostWanted/blob/main/ScrappingSAPSDatabase.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Interactive Demo"/></a>
+
 <br>
 
 ## Table of Contents
