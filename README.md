@@ -1,6 +1,6 @@
 # SAPS MOST WANTED SCRAPPER DB
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SAPS_badge.svg/1200px-SAPS_badge.svg.png" height = "400px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SAPS_badge.svg/1200px-SAPS_badge.svg.png" height = "250px">
 
 To view the notebook click
 
