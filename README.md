@@ -6,6 +6,10 @@ To view the notebook click
 
 <br>
 
+<h1>Installation</h1>
+
+<p>For the notebook to work with the database insert feature please run the .SQL files to create stored procedures in your database and change mysupersecretdbconnectionstring to your database connection string</p>
+
 ## Table of Contents
 
 ##### Scrapping Criminal links from SAPS Database
