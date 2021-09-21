@@ -1,5 +1,7 @@
 # SAPS MOST WANTED SCRAPPER DB
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SAPS_badge.svg/1200px-SAPS_badge.svg.png" height = "250px">
+
 To view the notebook click
 
 <a href="https://colab.research.google.com/github/ADGSTUDIOS/ScrappingSAPSMostWanted/blob/main/ScrappingSAPSDatabase.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Interactive Demo"/></a>
